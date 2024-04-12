@@ -15,6 +15,7 @@ db_config.json
 # Ignora i file generati dall'ambiente di sviluppo
 __pycache__/
 *.pyc
+airPollutionEnv/
 
 # Old files
 OLD/
