@@ -9,8 +9,8 @@ db_config.json
 *.png
 
 # Ignore other files txt
-*.txt
-
+posgres-command.txt
+standalone_admin_password.txt
 
 # Ignora i file generati dall'ambiente di sviluppo
 __pycache__/
