@@ -1,0 +1,24 @@
+# Ignora il file di configurazione
+api_config.json
+db_config.json
+
+# Ignora i file di log
+*.log
+
+# Ignore images
+*.png
+
+# Ignore other files txt
+*.txt
+
+
+# Ignora i file generati dall'ambiente di sviluppo
+__pycache__/
+*.pyc
+
+# Old files
+OLD/
+
+# Ignora i file generati dall'IDE
+.idea/
+.vscode/
